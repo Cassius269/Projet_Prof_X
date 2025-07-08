@@ -1,7 +1,11 @@
 body {
-    background-color: rgb(241, 178, 122);
+    background-color: rgb(202, 201, 199);
 }
 
 header {
     background-color: rgb(220, 152, 152);
+}
+
+footer {
+    background-color: green;
 }
